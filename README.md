@@ -14,6 +14,7 @@
 </a>
 <a href="mailto:k.s.mukhortov@gmail.com?"><img align="left" alt="Kirill Muhortov | LinkedIN" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 <br />
+
 Использую:
 
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
